@@ -1,3 +1,3 @@
-module new-otp
+module randomnumber
 
 go 1.17
