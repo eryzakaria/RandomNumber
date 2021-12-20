@@ -1,4 +1,4 @@
-package otpgolang
+package randomnumber
 
 import (
 	"math/rand"
